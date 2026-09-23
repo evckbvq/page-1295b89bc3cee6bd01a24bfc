@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gxs5ia.cn/sitemap.xml
